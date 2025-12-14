@@ -1,3 +1,3 @@
-# advertofcode2021
+# adventofcode2021
 
 See https://adventofcode.com
